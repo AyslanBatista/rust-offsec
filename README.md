@@ -1,2 +1,3 @@
-# rust-offsec
-Repositório voltado para scripts, exploits, tools e payloads feitos em Rust
+# Rust Offsec
+
+![](assets/capa_rust.png)
