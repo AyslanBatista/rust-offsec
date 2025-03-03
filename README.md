@@ -15,4 +15,4 @@ Este repositório é um espaço pessoal para documentar meu progresso em seguran
   
 - 🕵️‍♂️ Payloads personalizados para desafios de CTF
 - 🛠️ [Ferramentas](https://github.com/AyslanBatista/rust-offsec/tree/main/tools) úteis
-    - [nosql_password_checker](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/nosql_password_checker)
+    - [nosql_password_checker](https://github.com/AyslanBatista/rust-offsec/tree/main/tools/nosql_password_checker)
