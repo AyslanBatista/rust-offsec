@@ -1,5 +1,5 @@
 # NoSQL Password Checker
-
+![](../../assets/nosql_password_checker.gif)
 Uma ferramenta para CTF que explora vulnerabilidades NoSQL Injection para descobrir senhas em aplicações web.
 
 ## Sobre
