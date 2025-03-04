@@ -12,6 +12,7 @@ Este repositório é um espaço pessoal para documentar meu progresso em seguran
 - 🤖 [Scripts](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts) para automação de tarefas de pentest
   - [check-valid-emails-THM](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/check-valid-emails-THM)
   - [brute-force-hammerTHM](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/brute-force-hammerTHM)
+  - [blind-ldap-extraction-THM](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/blind-ldap-extraction-THM)
   
 - 🕵️‍♂️ Payloads personalizados para desafios de CTF
 - 🛠️ [Ferramentas](https://github.com/AyslanBatista/rust-offsec/tree/main/tools) úteis
