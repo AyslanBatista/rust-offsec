@@ -8,12 +8,12 @@ Repositório onde eu armazeno scripts, payloads, exploits e ferramentas que dese
 
 ## 📝 Sobre o Projeto
 Este repositório é um espaço pessoal para documentar meu progresso em segurança cibernética, com foco em:
-- 💀 Desenvolvimento de exploits em Rust
+- 💀 [Exploits](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits) em Rust
+    - [CVE-2018-16763](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-16763)
 - 🤖 [Scripts](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts) para automação de tarefas de pentest
   - [check-valid-emails-THM](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/check-valid-emails-THM)
   - [brute-force-hammerTHM](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/brute-force-hammerTHM)
   - [blind-ldap-extraction-THM](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts/blind-ldap-extraction-THM)
   
-- 🕵️‍♂️ Payloads personalizados para desafios de CTF
 - 🛠️ [Ferramentas](https://github.com/AyslanBatista/rust-offsec/tree/main/tools) úteis
     - [nosql_password_checker](https://github.com/AyslanBatista/rust-offsec/tree/main/tools/nosql_password_checker)
