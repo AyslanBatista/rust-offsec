@@ -17,8 +17,8 @@ Esta ferramenta automatiza o processo de exploração de vulnerabilidades de inj
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nosql_password_checker.git
-cd nosql_password_checker
+git clone https://github.com/AyslanBatista/rust-offsec.git
+cd rust-offsec/tools/nosql_password_checker/
 
 # Compile o projeto
 cargo build --release
@@ -44,16 +44,16 @@ user=admin&pass[$regex]=^.{11}$&remember=on
 
 ```bash
 # Fazer uma requisição simples
-./nosql_password_checker request
+./target/release/nosql_password_checker request
 
 # Descobrir uma senha através de brute force
-./nosql_password_checker bruteforce
+./target/release/nosql_password_checker bruteforce
 
 # Usar um host diferente
-./nosql_password_checker bruteforce -H exemplo.com
+./target/release/nosql_password_checker bruteforce -H exemplo.com
 
 # Ver ajuda
-./nosql_password_checker --help
+./target/release/nosql_password_checker --help
 ```
 
 ## Dependências
