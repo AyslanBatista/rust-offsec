@@ -27,7 +27,7 @@ pub fn checking_password_length(settings: &mut Settings) -> Result<usize, Box<dy
             .to_string();
         settings.payload.data = new_payload;
 
-        let response = execute_request(&settings)?;
+        let response = execute_request(settings)?;
 
         if let Some(location) = response.headers().get("location") {
             if location.to_str().unwrap_or("") == settings.response.success {
@@ -93,7 +93,7 @@ pub fn finding_each_character(
 
             settings.payload.data = new_payload;
 
-            let response = execute_request(&settings)?;
+            let response = execute_request(settings)?;
             let status = response.status();
 
             // Debugging para entender melhor as respostas
