@@ -15,6 +15,7 @@ Este repositório é um espaço pessoal para documentar meu progresso em seguran
   <summary><i>Lista de Exploits</i></summary>
 
   - [CVE-2018-16763](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-16763)
+  - [CVE-2018-19422](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-19422)
   - [php-8_1_0-dev-backdoor-rce](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/php-8_1_0-dev-backdoor-rce)
   - [osCommerce-2_3_4-rce](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/osCommerce-2_3_4-rce)
 
