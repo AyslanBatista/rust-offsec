@@ -25,11 +25,11 @@ Implementações de exploits conhecidos, reescritos em Rust para estudo e práti
   
   | CVE/Nome | Descrição | Alvo |
   |----------|-----------|------|
-  | [CVE-2018-16763](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-16763) | Execução remota de código (RCE) via injeção de código PHP | FUEL CMS 1.4.1 |
-  | [CVE-2018-19422](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-19422) | Vulnerabilidade de execução remota de código via upload de arquivos .pht/.phar | Subrion CMS 4.2.1 |
-  | [CVE-2023-27040](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2023-27040) | Vulnerabilidade de execução remota de código (RCE) explorável através do parâmetro username | Simple Image Gallery v1.0 |
-  | [php-8_1_0-dev-backdoor-rce](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/php-8_1_0-dev-backdoor-rce) | Backdoor que permite execução remota de código (RCE) via cabeçalho User-Agentt | PHP 8.1.0-dev |
-  | [osCommerce-2_3_4-rce](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/osCommerce-2_3_4-rce) | Exploração de RCE através de instalação uando o diretório /install não é removido | osCommerce 2.3.4 |
+  | [CVE-2018-16763](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-16763) | Execução remota de código (RCE) via injeção de código PHP nos parâmetros `pages/select/ filter` ou `preview/ data`| FUEL CMS 1.4.1 |
+  | [CVE-2018-19422](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2018-19422) | Vulnerabilidade de execução remota de código via upload de arquivos `.pht/.phar` | Subrion CMS 4.2.1 |
+  | [CVE-2023-27040](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/CVE-2023-27040) | Vulnerabilidade de execução remota de código (RCE) explorável através do parâmetro `username` | Simple Image Gallery v1.0 |
+  | [php-8_1_0-dev-backdoor-rce](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/php-8_1_0-dev-backdoor-rce) | Backdoor que permite execução remota de código (RCE) via cabeçalho `User-Agentt` | PHP 8.1.0-dev |
+  | [osCommerce-2_3_4-rce](https://github.com/AyslanBatista/rust-offsec/tree/main/exploits/osCommerce-2_3_4-rce) | Exploração de RCE através de instalação uando o diretório `/install` não é removido | osCommerce 2.3.4 |
 </details>
 
 ### 🤖 [Scripts](https://github.com/AyslanBatista/rust-offsec/tree/main/scripts)
